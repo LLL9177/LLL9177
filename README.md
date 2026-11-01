@@ -1,4 +1,4 @@
-Hey, I’m a Full-Stack Developer 👋
+# Hey, I’m a Full-Stack Developer 👋
 
 I build web applications from idea to deployment, working across frontend, backend, databases and third-party integrations.
 
