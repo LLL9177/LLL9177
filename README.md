@@ -8,8 +8,8 @@ I care about more than making something work. I want to understand why it works,
 
 __Organizations I contributed to:__
 
-* [KryaKryaTeamCode] (https://github.com/KryaKryaTeam)
-* [Kachechki] (https://github.com/Kachechki)
+* [KryaKryaTeamCode](https://github.com/KryaKryaTeam)
+* [Kachechki](https://github.com/Kachechki)
 
 # 🛠️ Tech Stack
 
@@ -38,8 +38,8 @@ __Organizations I contributed to:__
 
 ## Chance of Idea
 
-[backend (click)] (https://github.com/Kachechki/chanceofidea-backend) — I was the only dev here
-[frontend (click)] (https://github.com/Kachechki/chanceodidea-frontend)
+[backend (click)](https://github.com/Kachechki/chanceofidea-backend) — I was the only dev here
+[frontend (click)](https://github.com/Kachechki/chanceodidea-frontend)
 
 A marketplace for unfinished software projects.
 
@@ -48,7 +48,7 @@ A marketplace for unfinished software projects.
 * Automated repository transfers between users.
 * Authentication, database transactions and workflow management.
 
-## [Family Budget Tracker] (http://github.com/LLL9177/family-budget-tracker-bot)
+## [Family Budget Tracker](http://github.com/LLL9177/family-budget-tracker-bot)
 
 A budgeting application combining web and Telegram interfaces.
 
