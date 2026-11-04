@@ -6,6 +6,11 @@ My primary stack is TypeScript, React, NestJS and PostgreSQL. I focus on buildin
 
 I care about more than making something work. I want to understand why it works, how its components interact, and how it can evolve without becoming difficult to maintain.
 
+__Organizations I contributed to:__
+
+* [KryaKryaTeamCode] (https://github.com/KryaKryaTeam)
+* [Kachechki] (https://github.com/Kachechki)
+
 # 🛠️ Tech Stack
 
 ### Frontend
@@ -33,6 +38,9 @@ I care about more than making something work. I want to understand why it works,
 
 ## Chance of Idea
 
+[backend (click)] (https://github.com/Kachechki/chanceofidea-backend) — I was the only dev here
+[frontend (click)] (https://github.com/Kachechki/chanceodidea-frontend)
+
 A marketplace for unfinished software projects.
 
 * Backend architecture and REST API development.
@@ -40,7 +48,7 @@ A marketplace for unfinished software projects.
 * Automated repository transfers between users.
 * Authentication, database transactions and workflow management.
 
-## Family Budget Tracker
+## [Family Budget Tracker] (http://github.com/LLL9177/family-budget-tracker-bot)
 
 A budgeting application combining web and Telegram interfaces.
 
