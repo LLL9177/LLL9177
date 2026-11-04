@@ -1,4 +1,4 @@
-# Hey, I’m a Full-Stack Developer 👋
+Hey, I’m a Full-Stack Developer 👋
 
 I build web applications from idea to deployment, working across frontend, backend, databases and third-party integrations.
 
@@ -6,40 +6,40 @@ My primary stack is TypeScript, React, NestJS and PostgreSQL. I focus on buildin
 
 I care about more than making something work. I want to understand why it works, how its components interact, and how it can evolve without becoming difficult to maintain.
 
-__Organizations I contributed to:__
+Organizations I contributed to:
 
-* [KryaKryaTeamCode] (https://github.com/KryaKryaTeam)
-* [Kachechki] (https://github.com/Kachechki)
+* KryaKryaTeam
+* Kachechki
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### Frontend
+Frontend
 
 * React, TypeScript, JavaScript
 * HTML, CSS
 
-### Backend
+Backend
 
 * NestJS, Node.js
 * Python, FastAPI, Flask
 * REST API development
 
-### Databases & ORM
+Databases & ORM
 
 * PostgreSQL
 * TypeORM, SQLAlchemy
 
-### Tools & Infrastructure
+Tools & Infrastructure
 
 * Docker, Git, Linux
 * Telegram bots and integrations
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
-## Chance of Idea
+Chance of Idea
 
-[backend (click)] (https://github.com/Kachechki/chanceofidea-backend) — I was the only dev here
-[frontend (click)] (https://github.com/Kachechki/chanceodidea-frontend)
+* Backend repository — I was the only developer on this project.
+* Frontend repository
 
 A marketplace for unfinished software projects.
 
@@ -48,7 +48,7 @@ A marketplace for unfinished software projects.
 * Automated repository transfers between users.
 * Authentication, database transactions and workflow management.
 
-## [Family Budget Tracker] (http://github.com/LLL9177/family-budget-tracker-bot)
+Family Budget Tracker
 
 A budgeting application combining web and Telegram interfaces.
 
@@ -57,7 +57,7 @@ A budgeting application combining web and Telegram interfaces.
 * Telegram bot integration.
 * Role-based access and family budgeting functionality.
 
-## Hackathon Projects
+Hackathon Projects
 
 Contributions to projects built around real-world problems.
 
@@ -65,7 +65,7 @@ Contributions to projects built around real-world problems.
 * Automation and event-driven workflows.
 * Collaboration within development teams.
 
-# 🤝 What I Can Help With
+🤝 What I Can Help With
 
 * Building full-stack web applications.
 * Developing and integrating REST APIs.
@@ -77,7 +77,7 @@ Contributions to projects built around real-world problems.
 
 I can work with an existing project or help turn an idea into a working application.
 
-# 📬 Let’s Work Together
+📬 Let’s Work Together
 
 Have a project that needs building, fixing or improving?
 
