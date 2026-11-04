@@ -48,6 +48,18 @@ A marketplace for unfinished software projects.
 * Automated repository transfers between users.
 * Authentication, database transactions and workflow management.
 
+## CinaGloria
+
+[Backend](https://github.com/KryaKryaTeam/CinaGloria-Backend) · [Frontend](https://github.com/KryaKryaTeam/CinaGloria-Frontend)
+
+A NestJS-based backend powering a collaborative web application, built with Domain-Driven Design (DDD).
+
+* Worked with a DDD-based architecture, implementing application and domain services.
+* Developed domain entities, repositories and mappers.
+* Wrote automated tests across different parts of the application.
+* Contributed to backend business logic and application architecture.
+* Worked with PostgreSQL, authentication, OAuth integrations and Docker-based infrastructure.
+
 ## [Family Budget Tracker](http://github.com/LLL9177/family-budget-tracker-bot)
 
 A budgeting application combining web and Telegram interfaces.
