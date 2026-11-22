@@ -20,7 +20,7 @@ __Organizations I contributed to:__
 
 ### Backend
 
-* NestJS, Node.js
+* NestJS, Express.js, Node.js
 * Python, FastAPI, Flask
 * REST API development
 
@@ -76,6 +76,14 @@ Contributions to projects built around real-world problems.
 * Backend development and API integrations.
 * Automation and event-driven workflows.
 * Collaboration within development teams.
+
+# 🎯 Currently Looking For
+
+I’m interested in remote, part-time opportunities as a Junior Backend or Full-Stack Developer.
+
+I enjoy working on real-world applications, solving engineering problems, and collaborating with developers to build maintainable software.
+
+Interested in: Backend development · Full-stack development · Node.js · NestJS · TypeScript
 
 # 🤝 What I Can Help With
 
